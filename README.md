@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Kirusigan 👋
 
-<!--
-**kirusigan03/kirusigan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | IT Undergraduate
 
-Here are some ideas to get you started:
+I'm an Information Technology undergraduate passionate about
+building modern and scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 IT Undergraduate
+- 💻 Interested in Full-Stack Development
+- 🌱 Currently learning Spring Boot and React
+- 🔐 Interested in REST APIs and secure web applications
+- 📚 Always learning new technologies
+
+## 🛠️ Technologies
+
+### Languages
+Java • JavaScript • Python • C • SQL
+
+### Frontend
+React • HTML • CSS • JavaScript
+
+### Backend
+Java • Spring Boot • REST APIs
+
+### Database
+MySQL
+
+### Tools
+Git • GitHub • VS Code • IntelliJ IDEA
+
+## 📌 Featured Projects
+
+### Inventory Management System
+Full-stack inventory management application.
+
+**Tech:** React, Spring Boot, MySQL
+
+### Food Delivery System
+Full-stack food delivery application with
+authentication, payments, and order management.
+
+**Tech:** React, Spring Boot, MySQL, JWT
+
+## 📫 Connect With Me
+
+- LinkedIn
+- Portfolio
+- Email
