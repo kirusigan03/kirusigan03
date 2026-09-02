@@ -12,7 +12,7 @@ I enjoy working on both frontend and backend development and continuously improv
 
 - 🎓 BSc (Hons) in Information Technology — University of Moratuwa
 - 💻 Interested in Full-Stack Development
-- 🌱 Currently developing applications with React and Spring Boot
+- 🌱 Currently developing applications using React, Spring Boot, Node.js, and Express.js
 - 🔐 Interested in REST APIs, authentication, and secure web applications
 - 🗄️ Interested in database design and application development
 - 🚀 Always learning and exploring new technologies
@@ -38,6 +38,8 @@ I enjoy working on both frontend and backend development and continuously improv
 ### Backend
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Database
@@ -58,57 +60,10 @@ I enjoy working on both frontend and backend development and continuously improv
 
 ---
 
-## 🚀 Featured Projects
-
-### 📦 Inventory Management System
-
-A full-stack inventory management application for managing products, categories, suppliers, purchases, and sales.
-
-**Technologies:** React • Spring Boot • Spring Data JPA • MySQL
-
----
-
-### 🍔 Food Delivery Application
-
-A full-stack food delivery application with user authentication, ordering, payment integration, and delivery-related functionality.
-
-**Technologies:** React • Spring Boot • MySQL • Spring Security • JWT • Stripe API • AWS S3
-
----
-
-### 🤝 BorrowHub
-
-A platform designed to allow users to borrow and lend items through an online system.
-
-**Technologies:** Next.js • Spring Boot • MySQL • JWT • Cloudinary • PayPal Sandbox
-
----
-
-## 📚 Currently Learning
-
-- Spring Boot
-- React
-- REST API Development
-- Spring Security & JWT
-- Database Management
-- Full-Stack Web Development
-
----
-
-## 🎯 Career Goal
-
-My goal is to become a skilled **Full-Stack Software Engineer** by continuously improving my technical knowledge, building real-world projects, and learning new technologies.
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/kirusigan-thevarasa-8b31502bb">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-⭐ Feel free to explore my repositories and projects!
