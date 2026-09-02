@@ -63,7 +63,7 @@ I enjoy working on both frontend and backend development and continuously improv
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kirusigan-thevarasa-8b31502bb">
+  <a href="https://www.linkedin.com/in/kirusigan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
