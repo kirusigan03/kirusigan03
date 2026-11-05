@@ -1,13 +1,13 @@
 # Hi, I'm Kirusigan Thevarasa 👋
 
-### Software Engineer | IT Undergraduate | Full-Stack Developer
+### Software Engineer | IT Undergraduate
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Improving" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Building+Modern+Web+Applications;Backend+%26+Frontend+Development;Always+Learning+%26+Improving" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kirusigan03&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kirusigan03&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ I'm an Information Technology undergraduate at the **University of Moratuwa**, p
 I enjoy working on both frontend and backend development and continuously improving my programming and problem-solving skills.
 
 - 🎓 BSc (Hons) in Information Technology — University of Moratuwa
-- 💻 Interested in Software Engineering and Full-Stack Development
+- 💻 Interested in Software Engineering and application development
 - 🌱 Currently developing applications using React, Spring Boot, Node.js, and Express.js
 - 🔐 Interested in REST APIs, authentication, and secure web applications
 - 🗄️ Interested in database design and application development
@@ -118,12 +118,12 @@ I enjoy working on both frontend and backend development and continuously improv
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kirusigan03&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirusigan03&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kirusigan03&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirusigan03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kirusigan03&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=kirusigan03&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -131,7 +131,7 @@ I enjoy working on both frontend and backend development and continuously improv
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirusigan03&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirusigan03&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph" />
 </p>
 
 ---
@@ -151,5 +151,5 @@ I enjoy working on both frontend and backend development and continuously improv
 </p>
 
 <p align="center">
-  <i>Building, learning, and improving — one project at a time.</i>
+  <i>"Building, learning, and improving — one project at a time."</i>
 </p>
