@@ -118,12 +118,26 @@ I enjoy working on both frontend and backend development and continuously improv
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kirusigan03&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirusigan03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+    <img src="./assets/overview.light.svg" alt="GitHub Statistics" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kirusigan03&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
+    <img src="./assets/languages.light.svg" alt="Top Languages" width="100%" />
+  </picture>
+</p>
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+    <img src="./assets/contributions.light.svg" alt="Contribution Streak" width="100%" />
+  </picture>
 </p>
 
 ---
@@ -131,7 +145,10 @@ I enjoy working on both frontend and backend development and continuously improv
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirusigan03&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/rhythm.dark.svg" />
+    <img src="./assets/rhythm.light.svg" alt="Contribution Activity" width="100%" />
+  </picture>
 </p>
 
 ---
